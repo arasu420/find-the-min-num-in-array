@@ -1,0 +1,1 @@
+# find-the-min-num-in-array
